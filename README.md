@@ -1,6 +1,4 @@
-Here’s a sample README text for the **Quantum AI** project:
 
----
 
 # Quantum AI Chat
 
